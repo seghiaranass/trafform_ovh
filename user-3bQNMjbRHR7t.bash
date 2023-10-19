@@ -1,0 +1,1 @@
+terraform apply -var="tenant_id=937eb95620e74a7b8a4eecfb2eb53e40" -var="user_name=user-3bQNMjbRHR7t" -var="password=WYz8XmABTHjK6Rp83KQXUDs3xnqSWcZu" -var="region=[\"US-EAST-VA-1\", \"US-WEST-OR-1\"]" -var="instance_count=20" -auto-approve
